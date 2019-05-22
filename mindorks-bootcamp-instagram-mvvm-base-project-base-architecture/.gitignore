@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.apk
+/buildRelease.sh
+/version.properties
+/app/release
+src/test/
